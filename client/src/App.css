@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-top: 20px;
 }
 
 .App-logo {
@@ -30,4 +31,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.darkapp {
+  background: #777777;
 }
